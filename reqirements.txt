@@ -1,0 +1,12 @@
+tensorflow>=2.0
+numpy
+pandas
+nltk
+tqdm
+re
+time
+spacy
+keras
+genism
+bs4
+
